@@ -2,6 +2,7 @@
 
 Telegram bot that sends a reminder to the user at a certain time
 
+
 ![image](https://user-images.githubusercontent.com/105461731/207589278-87f4a126-ad7d-4911-b5bb-64d603e282c8.png)
 
 It is connected to a Postgresql database
